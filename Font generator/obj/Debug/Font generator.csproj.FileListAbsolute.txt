@@ -1,0 +1,9 @@
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\bin\Debug\Font generator.exe.config
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\bin\Debug\Font generator.exe
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\bin\Debug\Font generator.pdb
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font generator.csprojResolveAssemblyReference.cache
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font_generator.fontGenerator.resources
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font_generator.Properties.Resources.resources
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font generator.csproj.GenerateResource.Cache
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font generator.exe
+C:\Users\Brelak\Google Drive\Infotech Studio\Font generator\Font generator\obj\Debug\Font generator.pdb
